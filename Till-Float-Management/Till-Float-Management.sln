@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Till-Float-Management", "Till-Float-Management\Till-Float-Management.csproj", "{686CA886-B7E1-4D37-B318-B9B9D418638B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{686CA886-B7E1-4D37-B318-B9B9D418638B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{686CA886-B7E1-4D37-B318-B9B9D418638B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{686CA886-B7E1-4D37-B318-B9B9D418638B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{686CA886-B7E1-4D37-B318-B9B9D418638B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C544C0B-7B51-4D1D-88AD-78C005DE2241}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+/Users/oscar/Documents/Till-Float-Management/Till-Float-Management/Till-Float-Management/bin/Debug/net6.0/Till-Float-Management
+/Users/oscar/Documents/Till-Float-Management/Till-Float-Management/Till-Float-Management/bin/Debug/net6.0/Till-Float-Management.deps.json
+/Users/oscar/Documents/Till-Float-Management/Till-Float-Management/Till-Float-Management/bin/Debug/net6.0/Till-Float-Management.runtimeconfig.json
+/Users/oscar/Documents/Till-Float-Management/Till-Float-Management/Till-Float-Management/bin/Debug/net6.0/Till-Float-Management.dll
+/Users/oscar/Documents/Till-Float-Management/Till-Float-Management/Till-Float-Management/bin/Debug/net6.0/Till-Float-Management.pdb
+/Users/oscar/Documents/Till-Float-Management/Till-Float-Management/Till-Float-Management/obj/Debug/net6.0/Till-Float-Management.csproj.AssemblyReference.cache
+/Users/oscar/Documents/Till-Float-Management/Till-Float-Management/Till-Float-Management/obj/Debug/net6.0/Till-Float-Management.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oscar/Documents/Till-Float-Management/Till-Float-Management/Till-Float-Management/obj/Debug/net6.0/Till-Float-Management.AssemblyInfoInputs.cache
+/Users/oscar/Documents/Till-Float-Management/Till-Float-Management/Till-Float-Management/obj/Debug/net6.0/Till-Float-Management.AssemblyInfo.cs
+/Users/oscar/Documents/Till-Float-Management/Till-Float-Management/Till-Float-Management/obj/Debug/net6.0/Till-Float-Management.csproj.CoreCompileInputs.cache
+/Users/oscar/Documents/Till-Float-Management/Till-Float-Management/Till-Float-Management/obj/Debug/net6.0/Till-Float-Management.dll
+/Users/oscar/Documents/Till-Float-Management/Till-Float-Management/Till-Float-Management/obj/Debug/net6.0/refint/Till-Float-Management.dll
+/Users/oscar/Documents/Till-Float-Management/Till-Float-Management/Till-Float-Management/obj/Debug/net6.0/Till-Float-Management.pdb
+/Users/oscar/Documents/Till-Float-Management/Till-Float-Management/Till-Float-Management/obj/Debug/net6.0/Till-Float-Management.genruntimeconfig.cache
+/Users/oscar/Documents/Till-Float-Management/Till-Float-Management/Till-Float-Management/obj/Debug/net6.0/ref/Till-Float-Management.dll
